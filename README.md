@@ -6,8 +6,6 @@
 - 📫 Reach me through my Discord username: chokster.
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: [Previous DOTA 2 Leaderboard Player](https://imgur.com/qzw2bzF)... Casual Gamer atm 🎮
-
-- Challenge me at Typeracer.com 👇
-- https://data.typeracer.com/misc/badge?user=kuyachok
+- Challenge me at [Typeracer.com](https://play.typeracer.com/) [Profile](https://data.typeracer.com/misc/badge?user=kuyachok)
 - or Notris Foes (Tetris Battle) 💯
 
