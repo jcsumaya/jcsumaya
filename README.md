@@ -5,7 +5,7 @@
 - 💬 Ask me about anything!
 - 📫 Reach me through my Discord username: chokster.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Previous DOTA 2 Leaderboard Player... Casual Gamer atm 🎮
+- ⚡ Fun fact: [(https://imgur.com/qzw2bzF)Previous DOTA 2 Leaderboard Player]... Casual Gamer atm 🎮
 
 - Challenge me at Typeracer.com 👇
 - https://data.typeracer.com/misc/badge?user=kuyachok
