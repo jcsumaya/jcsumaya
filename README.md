@@ -5,7 +5,7 @@
 - 💬 Ask me about anything!
 - 📫 Reach me through my Discord username: <b>chokster.</b> (with dot.)
 - 😄 Pronouns: He/Him
-- Casual DOTA 2 Player
+- Casual DOTA 2 & Flyff Universe Player
 - Challenge me at [Typeracer.com](https://play.typeracer.com/) | [Profile](https://data.typeracer.com/misc/badge?user=kuyachok)
 - or Notris Foes (Tetris Battle) 💯
 
