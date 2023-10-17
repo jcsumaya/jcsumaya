@@ -5,5 +5,5 @@
 - 💬 Ask me about anything!
 - 📫 Reach me through my Discord username: <b>chokster.</b> (with dot.)
 - 😄 Pronouns: He/Him
-- Casual DOTA 2 Player
+- 🎮 Casual DOTA 2 Player
 
