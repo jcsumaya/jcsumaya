@@ -4,9 +4,9 @@
 </div>
  &nbsp;
  
-I’m an international student specializing in I.T. Software Development at NB, Canada 🍁 I recently started coding in 2022, and have minimal experience with Kotlin and Android Studio.
+I’m an international student specializing in I.T. Software Development. I recently started coding in 2022, and have minimal experience with Kotlin and Android Studio.
 
-* 🌍  I'm based in Canada
+* 🌍  I'm based in Canada 🍁
 * 🧠  I'm currently learning more about JavaScript, Bootstrap, C# ...
 * 🎮 Casual DOTA 2 Player
 
