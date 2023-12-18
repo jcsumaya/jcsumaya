@@ -8,7 +8,7 @@ I’m an international student specializing in I.T. Software Development at NB, 
 
 * 🌍  I'm based in Canada
 * 🧠  I'm currently learning more about JavaScript, Bootstrap, C# ...
-* ⚡  🎮 Casual DOTA 2 Player
+* 🎮 Casual DOTA 2 Player
 
 ### Skills
 
