@@ -4,11 +4,11 @@
 </div>
  &nbsp;
  
-I’m an international student specializing in I.T. Software Development. I recently started coding in 2022, and have minimal experience with Kotlin and Android Studio.
+I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022, started with Kotlin and Android Studio.
 
 * 🌍  Based in Canada 🍁
 * 🧠  Currently learning more about JavaScript, Bootstrap, C# ...
-* 🎮  Casual DOTA 2 Player
+* 🎮  Casual Gamer (MMORPG games, Tetris, DOTA 2, etc.)
 
 ### Skills
 
