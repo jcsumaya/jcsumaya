@@ -8,7 +8,7 @@ I’m an international student specializing in I.T. Software Development. I was 
 
 * 🌍  Based in Canada 🍁
 * 🧠  Currently learning more about JavaScript, Bootstrap, C# ...
-* 🎮  Casual Gamer (MMORPG games, Tetris, DOTA 2, etc.)
+* 🎮  Casual Gamer (MMORPGs, Tetris, DOTA 2, etc.)
 
 ### Skills
 
