@@ -1,10 +1,10 @@
-### Hi! <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
+### Hi, I'm Juan!<img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" width="50">
 <div align="center">
 <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif">
 </div>
  &nbsp;
  
-I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022, started with Kotlin and Android Studio.
+I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022 and started with Kotlin + Android Studio.
 
 * 🌍  Based in Canada 🍁
 * 🧠  Currently learning more about JavaScript, Bootstrap, C# ...
