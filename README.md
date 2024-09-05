@@ -7,7 +7,7 @@
 I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022 and started with Kotlin + Android Studio.
 
 * 🌍  Based in Canada 🍁
-* 🧠  Currently learning more about JavaScript, Tailwind CSS, C# ...
+* 🧠  Currently learning more about JavaScript, C#, Flutter ...
 * 🎮  Casual Gamer (MMORPGs, Tetris, DOTA 2, etc.)
 
 ### Skills
