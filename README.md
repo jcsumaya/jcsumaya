@@ -4,11 +4,9 @@
 </div>
 &nbsp;
 
-I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022 and started with Kotlin + Android Studio.
+I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022 and started with Android Development using Kotlin and Jetpack Compose.
 
-* 🌍  Based in Canada 🍁
 * 🧠  Currently learning more about React, Swift, PHP ...
-* 🎮  Casual Gamer (MMORPGs, Tetris, DOTA 2, etc.)
 
 ### Skills
 
