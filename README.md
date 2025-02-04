@@ -4,9 +4,7 @@
 </div>
 &nbsp;
 
-I’m an international student specializing in I.T. Software Development. I was introduced to coding in 2022 and started with Android Development using Kotlin and Jetpack Compose.
-
-* 🧠  Currently learning more about React, Swift, PHP ...
+* 🧠  Currently learning more about React, NestJS, Swift, PHP ...
 
 ### Skills
 
