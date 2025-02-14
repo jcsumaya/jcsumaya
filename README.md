@@ -10,7 +10,7 @@
 
 #### Frameworks
 <p align="left"> <a href="https://angular.io/" target="_blank" rel="noreferrer"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="36" height="36" alt="Angular" /></a> <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a>  <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/spring-projects/spring-boot/master/spring-boot-project/src/docs/asciidoc/images/spring-boot-logo.png" width="36" height="36" alt="Spring Boot" />
+    <img src="https://cdn.worldvectorlogo.com/logos/spring-3.svg" width="36" height="36" alt="Spring Boot" />
   </a> </p>
 
 #### Languages
