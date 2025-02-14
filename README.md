@@ -4,7 +4,7 @@
 </div>
 &nbsp;
 
-* 🧠  Currently learning more about React, NestJS, Swift, PHP ...
+* 🧠  Currently learning more about Spring MVC, React, NestJS, Swift ...
 
 ### Skills
 
