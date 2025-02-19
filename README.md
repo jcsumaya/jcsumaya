@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me  
-- 🧠 Currently learning more about **Spring MVC, React, NestJS, Swift**...
+- 🧠 Currently learning more about **Spring MVC, React, NestJS, Swift, Jetpack Compose**...
 
 ---
 
