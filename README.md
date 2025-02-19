@@ -69,14 +69,14 @@
     <img src="https://reactnative.dev/img/header_logo.svg" width="36" height="36" alt="React Native" />
   </a>
   <a href="https://developer.android.com/jetpack/compose" target="_blank" rel="noreferrer">
-    <img src="https://developer.android.com/static/images/jetpack/compose/logo-compose.svg" width="36" height="36" alt="Jetpack Compose" />
+    <img src="https://developer.android.com/static/images/spot-icons/jetpack-compose.svg" width="36" height="36" alt="Jetpack Compose" />
   </a>
 </p>
 
 #### Development Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vscode-colored.svg" width="36" height="36" alt="Visual Studio Code" />
+    <img src="https://www.svgrepo.com/show/374171/vscode.svg" width="36" height="36" alt="Visual Studio Code" />
   </a>
   <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/9/9c/IntelliJ_IDEA_Icon.svg" width="36" height="36" alt="IntelliJ IDEA" />
@@ -94,17 +94,14 @@
 
 #### ITSM & Project Management
 <p align="left">
-  <a href="https://www.bmc.com/it-solutions/helix-platform.html" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/BMC_Software_logo.svg" width="36" height="36" alt="BMC Helix" />
-  </a>
   <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/ServiceNow_Logo.svg" width="36" height="36" alt="ServiceNow" />
+    <img src="https://brandlogos.net/wp-content/uploads/2022/07/servicenow-logo_brandlogos.net_aazvs.png" width="36" height="36" alt="ServiceNow" />
   </a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Jira_Software_logo.svg" width="36" height="36" alt="Jira" />
+    <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="36" height="36" alt="Jira" />
   </a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7c/Trello-logo-blue.svg" width="36" height="36" alt="Trello" />
+    <img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="36" height="36" alt="Trello" />
   </a>
 </p>
 
@@ -134,10 +131,10 @@
 #### Additional Skills
 <p align="left">
   <a href="https://workspace.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Drive_logo.png" width="36" height="36" alt="Google Suite" />
+    <img src="https://www.svgrepo.com/show/353805/google-cloud.svg" width="36" height="36" alt="Google Suite" />
   </a>
   <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/08/Canva_icon_2021.svg" width="36" height="36" alt="Canva" />
+    <img src="https://images.squarespace-cdn.com/content/v1/5b9fcfc54eddec7b4183cf67/1707404291899-P5L6YRH4QQ6UFO42SPJR/Canva_icon_2021.svg.png?format=1000w" width="36" height="36" alt="Canva" />
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
