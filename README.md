@@ -11,12 +11,10 @@
 
 ---
 
-<p align="center">
-  <strong>🛠️ Skills</strong>
-</p>
+### 🛠️ Skills
 
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="50%">
 
