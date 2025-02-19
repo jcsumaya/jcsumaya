@@ -133,9 +133,6 @@
 
 #### Additional Skills
 <p align="left">
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg" width="36" height="36" alt="Microsoft Office" />
-  </a>
   <a href="https://workspace.google.com/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Drive_logo.png" width="36" height="36" alt="Google Suite" />
   </a>
