@@ -77,7 +77,7 @@
 
 #### ITSM & Project Management
 <p align="left">
-  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"><img src="https://brandlogos.net/wp-content/uploads/2022/07/servicenow-logo_brandlogos.net_aazvs.png" width="36" height="36" alt="ServiceNow" /></a>
+  <a href="https://www.servicenow.com/" target="_blank" rel="noreferrer"><img src="https://companieslogo.com/img/orig/NOW-6d5a01eb.png?t=1720244493" width="36" height="36" alt="ServiceNow" /></a>
   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" width="36" height="36" alt="Jira" /></a>
   <a href="https://trello.com/" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/6124/6124991.png" width="36" height="36" alt="Trello" /></a>
 </p>
@@ -85,13 +85,13 @@
 #### Testing
 <p align="left">
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Selenium_Logo.png" width="36" height="36" alt="Selenium" /></a>
-  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eclipse-Luna-Logo.svg" width="36" height="36" alt="Eclipse IDE" /></a>
+  <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer"><img src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-svg-vector.svg" width="36" height="36" alt="Eclipse IDE" /></a>
 </p>
 
 #### Operating Systems
 <p align="left">
   <a href="https://www.microsoft.com/en-us/windows" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Windows_logo_-_2012.svg" width="36" height="36" alt="Windows" /></a>
-  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/MacOS_wordmark_%282017%29.svg" width="36" height="36" alt="macOS" /></a>
+  <a href="https://www.apple.com/macos/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/2048px-Icon-Mac.svg.png" width="36" height="36" alt="macOS" /></a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" width="36" height="36" alt="Linux" /></a>
 </p>
 
