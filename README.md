@@ -73,13 +73,6 @@
   </a>
 </p>
 
-#### API Integration
-<p align="left">
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer">
-    <img src="https://img.icons8.com/color/48/000000/api.png" width="36" height="36" alt="RESTful APIs" />
-  </a>
-</p>
-
 #### Development Tools
 <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
