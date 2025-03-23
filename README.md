@@ -58,7 +58,6 @@
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/354099/mysql.svg" width="36" height="36" alt="MySQL" /></a>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/331488/mongodb.svg" width="36" height="36" alt="MongoDB" /></a>
   <a href="https://www.microsoft.com/en-us/sql-server/sql-server-downloads" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=512&id=laYYF3dV0Iew&format=png" width="36" height="36" alt="MSSQL" /></a>
-  <a href="https://www.sqlite.org/index.html" target="_blank" rel="noreferrer"><img src="https://dwglogo.com/wp-content/uploads/2018/03/SQLite_Vector_logo.png" width="36" height="36" alt="SQLite" /></a>
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/353735/firebase.svg" width="36" height="36" alt="Firebase" /></a>
 </p>
 
