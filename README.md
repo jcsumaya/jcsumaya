@@ -8,7 +8,7 @@
 
 ### About Me  
 - 🧠 Continuously learning more about **Spring MVC, React, NestJS, Swift**...
-- Seeking for internship 👨‍💻
+👨‍💻
 
 ---
 
